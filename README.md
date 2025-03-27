@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.3.2-blue)
 
-![image](https://github.com/user-attachments/assets/a0de8a06-f342-4913-967e-a4271f704da5)
-
 
 
 LPEAssessor is a comprehensive Linux privilege escalation VAPT Framework designed for security professionals, system administrators, and penetration testers. It systematically identifies potential privilege escalation vectors, verifies their exploitability, and provides detailed industry-compliant reports, in both easily parsable format (.TXT, .JSON) and overview-friendly format (.HTML), with actionable dynamically-generated remediations, working across multiple Linux distributions and enviroments.
