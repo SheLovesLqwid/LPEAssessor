@@ -24,7 +24,7 @@ LPEAssessor is a comprehensive Linux privilege escalation VAPT Framework designe
 
 ```bash
 # Clone the repository
-git clone https://github.com/ParzivalHack/LPEAssessor.git
+git clone https://github.com/SheLovesLqwid/LPEAssessor.git
 cd LPEAssessor
 ```
 
@@ -71,13 +71,6 @@ python LPEAssessor.py --monitor-only --monitor-timeout 600
 | `--verify-timeout SECONDS` | Set timeout for verification attempts (default: 10) |
 ```
 
-## Example Report
-
-[Real HTML Report Example](https://parzivalhack.github.io/LPEAssessor/examplereport.html)
-
-[Real JSON Report Example](https://github.com/ParzivalHack/LPEAssessor/blob/main/examplereport.json)
-
-[Real TXT Report Example](https://github.com/ParzivalHack/LPEAssessor/blob/main/examplereport.txt)
 
 ## Supported Vulnerability Types
 
@@ -119,7 +112,6 @@ This tool is provided for educational and professional security assessment purpo
 
 **Use responsibly and only on systems you have permission to test.**
 
-A full disclaimer can be found [here](https://github.com/ParzivalHack/LPEAssessor/blob/main/DISCLAIMER.md)
 
 ## Contributing
 
